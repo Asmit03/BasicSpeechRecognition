@@ -10,6 +10,11 @@ This is a simple python script that uses Google Speech API to convert speech to 
 
 ## Usage
 
+### Install Dependencies
+```bash 
+pip install -r requirements.txt
+```
+
 ### Convert Speech to Text in Real Time
 ```bash
 python speech_recognition.py
